@@ -15,7 +15,7 @@ function sendMail1() {
         port: 587,
         secure: false, // true for 465, false for other ports
         auth: {
-            user: 'gaurav.kumar@exatosoftware.com',
+            user: '',
             pass: ''
         },
         authMethod: 'LOGIN'
